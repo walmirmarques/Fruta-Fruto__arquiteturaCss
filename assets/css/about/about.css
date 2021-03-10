@@ -2,3 +2,9 @@
     text-align: center;
     padding: 2.5em;
 }
+
+@media screen and (max-width: 768px){
+    .about{
+        padding: 2.5rem 1rem;
+    }
+}
