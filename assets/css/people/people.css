@@ -1,0 +1,10 @@
+.people{
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 768x){
+    .people{
+       margin-bottom: 3rem;
+    }
+}

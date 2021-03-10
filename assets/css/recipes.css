@@ -4,3 +4,16 @@
     flex-wrap: wrap;
     padding: 5rem 0 0 5rem;
 }
+
+
+@media screen and (max-width: 992px){
+    .recipes{
+        padding: 5rem 0 0 2.5rem;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .recipes{
+        padding: 5rem 0 0 1rem;
+    }
+}
